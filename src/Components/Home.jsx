@@ -1,6 +1,7 @@
 import React from 'react';
 import Typed from 'typed.js';
 import { useEffect, useRef } from 'react';
+import pdf from "../pdf/AliSarwar_Resume.pdf"
 
 const Home = () => {
 
@@ -41,7 +42,7 @@ const Home = () => {
             className="text-3xl md:text-5xl font-semibold leading-tight "
           ></h1>
           <a
-            href="#"
+            href={pdf}
             download="Resume.pdf"
             className="inline-block mt-4 px-6 py-3 bg-yellow-500 text-black font-semibold rounded hover:bg-yellow-600 transition duration-300"
           >
