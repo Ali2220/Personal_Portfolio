@@ -3,6 +3,9 @@ import Typed from 'typed.js';
 import { useEffect, useRef } from 'react';
 
 const Home = () => {
+
+  const my_picture = "https://scontent.fkhi16-1.fna.fbcdn.net/v/t39.30808-6/449694007_2365118327176313_3049195972602756496_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=viVjso6fs8QQ7kNvgFbfrfa&_nc_ht=scontent.fkhi16-1.fna&oh=00_AYC71GMT69xP8kA_VsDAGlztV1DJTr5taH-mQjy2OqknKw&oe=670219B1"
+
   const typed = useRef();
 
   useEffect(() => {
@@ -51,7 +54,7 @@ const Home = () => {
         data-aos-duration="1000"
         className="right mt-6 md:mt-0 md:w-1/2 flex justify-center">
           <img
-            src="./src/assets/Me.jpg"
+            src={my_picture}
             alt="Profile"
             className="w-64 h-64 md:w-80 md:h-80 object-cover rounded-full shadow-lg border-4 border-white hover:scale-105 transition-transform duration-300"
           />
