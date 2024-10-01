@@ -1,0 +1,19 @@
+
+[
+  {
+    "id": 1,
+    "role": "Frontend Web Intern",
+    "organisation": "YoungDev Interns",
+    "startDate": "August, 2024",
+    "endDate": "September, 2024",
+    "location": "Remote",
+    "experiences": [
+      "Developed a Single Page Application (SPA) using React.js",
+      "Optimized performance by implementing lazy loading and code splitting",
+      "Integrated third-party APIs to display dynamic data",
+      "Styled components using Tailwind CSS for responsive design"
+    ]
+    
+  }
+]
+

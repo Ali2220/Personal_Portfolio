@@ -1,0 +1,33 @@
+[
+  {
+    "id" : 1,
+    "title": "HTML",
+    "imageSrc": "../public/skills/html.png"
+  },
+  {
+    "id" : 2,
+    "title": "CSS",
+   "imageSrc": "../public/skills/css.png"
+  },
+  {
+    "id" : 3,
+    "title": "Tailwind CSS",
+     "imageSrc": "../public/skills/tailwindcss.png"
+  },
+  {
+    "id" : 4,
+    "title": "JavaScript",
+     "imageSrc": "../public/skills/javascript.png"
+  },
+  {
+    "id" : 5,
+    "title": "React",
+     "imageSrc": "../public/skills/react.png"
+  },
+  {
+    "id" : 6,
+    "title": "GitHub",
+     "imageSrc": "../public/skills/github.png"
+  }
+  
+]

@@ -1,0 +1,35 @@
+[
+    {
+      "key": 1,
+      "title": "React E-Commerce Web App",
+      "imageSrc": "../public/projects/ecommerce.png",
+      "description": "A fully functional e-commerce web application built using React.js and React Router.",
+      "demo": "https://e-commerce-web-app-kappa.vercel.app/",
+      "source": "https://github.com/Ali2220/E-commerce-Web-App.git"
+    },
+    {
+      "key": 2,
+      "title": "Todo List With Context API And Local Storage",
+      "imageSrc": "../public/projects/todolist.png",
+      "description": "A todo list app developed in React.js using Context API for state management and Local Storage for persistent data, even after the page is refreshed.",
+      "demo": "https://todo-list-with-context-api-and-local-storage.vercel.app/",
+      "source": "https://github.com/Ali2220/todoList-With-ContextApi-And-LocalStorage.git"
+    },
+    {
+      "key": 3,
+      "title": "Docs Mini App in React",
+      "imageSrc": "../public/projects/docsapp.png",
+      "description": "A mini documentation app built in React.js with smooth animations and transitions powered by Framer Motion for an enhanced user experience.",
+      "demo": "https://docs-mini-app-react.netlify.app/",
+      "source": "https://github.com/Ali2220/Docs-Mini-App-React.git"
+    },
+    {
+      "key": 4,
+      "title": "Nasheed Player In Vanilla JavaScript",
+      "imageSrc": "../public/projects/nasheed.png",
+      "description": "A simple nasheed player built with Vanilla JavaScript that allows users to play nasheeds, featuring basic controls like play, pause, and next.",
+      "demo": "https://nasheeds-player.netlify.app/",
+      "source": "https://github.com/Ali2220/Nasheed-Player.git"
+    }
+  ]
+  
